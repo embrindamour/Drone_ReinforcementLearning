@@ -1,0 +1,2 @@
+step,state,action,action_name,new_state,reward,cumulative_reward
+1,LOST,2,move_up,9,-1.0,-1.0

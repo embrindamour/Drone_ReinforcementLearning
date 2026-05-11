@@ -1,0 +1,7 @@
+step,state,action,action_name,new_state,reward,cumulative_reward
+1,s=8 (corner),1,move_right,8,-0.1,-0.1
+2,s=8 (corner),1,move_right,8,-0.1,-0.2
+3,s=8 (corner),1,move_right,8,-0.1,-0.3
+4,s=8 (corner),1,move_right,8,-0.1,-0.4
+5,s=8 (corner),1,move_right,8,-0.1,-0.5
+6,LOST,1,move_right,9,-1.0,-1.5

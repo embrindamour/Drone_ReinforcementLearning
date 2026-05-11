@@ -1,0 +1,2 @@
+episode,step,state,action,action_name,new_state,reward,total_reward,epsilon,q_values
+1,1,9,0,yaw_right,9,-1.0,-1.0,0.3,"[-0.1, 0.0, 0.0, 0.0]"
